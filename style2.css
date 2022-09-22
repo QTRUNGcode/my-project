@@ -1,0 +1,23 @@
+body{
+    background-image: url("/wlop-48se.jpg");
+    background-size: cover;
+}
+.general-table{
+    background-color: white;
+    width: 50%;
+    margin-top: 10%;
+    margin-left: 25%;
+    border: 1px solid black;
+}
+.center-pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.center-infor{
+    text-align: left;
+}
+.general{
+    font-size: 200%;
+}
